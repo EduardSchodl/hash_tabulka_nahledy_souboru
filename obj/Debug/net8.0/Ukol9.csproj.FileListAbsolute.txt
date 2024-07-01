@@ -1,0 +1,14 @@
+C:\Users\Eduda\Desktop\IDT\Ukol9\bin\Debug\net8.0\Ukol9.exe
+C:\Users\Eduda\Desktop\IDT\Ukol9\bin\Debug\net8.0\Ukol9.deps.json
+C:\Users\Eduda\Desktop\IDT\Ukol9\bin\Debug\net8.0\Ukol9.runtimeconfig.json
+C:\Users\Eduda\Desktop\IDT\Ukol9\bin\Debug\net8.0\Ukol9.dll
+C:\Users\Eduda\Desktop\IDT\Ukol9\bin\Debug\net8.0\Ukol9.pdb
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.AssemblyInfoInputs.cache
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.AssemblyInfo.cs
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.csproj.CoreCompileInputs.cache
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.dll
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\refint\Ukol9.dll
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.pdb
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\Ukol9.genruntimeconfig.cache
+C:\Users\Eduda\Desktop\IDT\Ukol9\obj\Debug\net8.0\ref\Ukol9.dll
